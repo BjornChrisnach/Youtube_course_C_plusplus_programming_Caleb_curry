@@ -1,0 +1,2 @@
+- Youtube course, from Caleb Curry
+- C++ Programming All-in-One Tutorial Series (10 HOURS!)
